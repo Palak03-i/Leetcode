@@ -14,8 +14,17 @@
 | ------- |
 | [0050-powx-n](https://github.com/Palak03-i/Leetcode/tree/master/0050-powx-n) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Palak03-i/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak03-i/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Palak03-i/Leetcode/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak03-i/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak03-i/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
