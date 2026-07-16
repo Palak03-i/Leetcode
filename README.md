@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Palak03-i/Leetcode/tree/master/0051-n-queens) |
 | [1288-remove-covered-intervals](https://github.com/Palak03-i/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak03-i/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Palak03-i/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -88,4 +89,8 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Palak03-i/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Palak03-i/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Palak03-i/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
