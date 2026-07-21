@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Palak03-i/Leetcode/tree/master/0051-n-queens) |
+| [1260-shift-2d-grid](https://github.com/Palak03-i/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Palak03-i/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Palak03-i/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Palak03-i/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -101,5 +102,10 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Palak03-i/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Palak03-i/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Palak03-i/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
