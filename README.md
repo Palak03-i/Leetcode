@@ -40,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Palak03-i/Leetcode/tree/master/0022-generate-parentheses) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Palak03-i/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Palak03-i/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -76,6 +77,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Palak03-i/Leetcode/tree/master/0022-generate-parentheses) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Palak03-i/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Palak03-i/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -104,6 +106,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Palak03-i/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Palak03-i/Leetcode/tree/master/0051-n-queens) |
 ## Simulation
 |  |
